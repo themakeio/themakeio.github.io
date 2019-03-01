@@ -71,13 +71,13 @@ blockquote cite {
   width: 100%;
 }
 
-.content {
+.media-content {
   display: table-cell;
   vertical-align: bottom;
   text-align: left;
 }
 
-.content2 {
+.title-content {
   display: table-cell;
   vertical-align: bottom;
   text-align: center;
